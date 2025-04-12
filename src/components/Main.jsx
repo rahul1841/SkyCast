@@ -427,7 +427,7 @@ const Main = () => {
           )}
 
           <Row>
-            <Col className="text-center">Made With 🤍 By Rahul Kumar</Col>
+            <Col className="text-center">Made With 🤍 By Raman Kumar</Col>
           </Row>
         </Container>
       </div>
